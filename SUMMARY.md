@@ -5,4 +5,5 @@
   * [A basic example](a-basic-example.md)
   * [Core concepts](core-concepts.md)
 * [Tutorial](chapter1.md)
+* [Tooling](tooling.md)
 
