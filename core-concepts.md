@@ -16,3 +16,5 @@ Message-driven protocols usually contain something that can be found as topic \(
 
 There's no standard way of naming topics so we recommend you to [**have a look at our proposal here**](https://github.com/asyncapi/topic-definition).
 
+{% youtube %}STKCRSUsyP0{% endyoutube %}
+
