@@ -1,3 +1,3 @@
 {
-  "plugins": ["videoclips", "theme-vuejs"]
+  "plugins": ["videoclips", "theme-asyncapi"]
 }
